@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**EduxM08/EduxM08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hola, soy Eduardo Muñoz👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  - 🔧 Amante del hardware y  software, apasionado por la tecnología.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+- 💻 Me encanta aprender nuevas herramientas y lenguajes
+- 🌱 Actualmente estoy aprendiendo [funciones avanzadas de git]
+- ⚙️ Trabajo con tecnologías como Git, Js, html y css.
+- ✉️ Contactame: [LinkedIn]
+
+## 📊 GitHub Stats
+
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EduxM08&show_icons=true&theme=radical)
+
+---
+
+> “La mejor forma de predecir el futuro es creándolo.” – Alan Kay
